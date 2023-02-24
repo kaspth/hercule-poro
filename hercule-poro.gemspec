@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary  = "Hercule::PORO helps give your Ruby POROs a healthy distance to their genius."
   spec.homepage = "https://github.com/kaspth/hercule-poro"
   spec.license  = "MIT"
-  spec.required_ruby_version = ">= 3.2.0"
+  spec.required_ruby_version = ">= 2.7"
 
   spec.metadata["homepage_uri"]    = spec.homepage
   spec.metadata["source_code_uri"] = spec.homepage
