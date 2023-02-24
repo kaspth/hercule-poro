@@ -10,6 +10,7 @@ GEM
     minitest-sprint (1.2.2)
       path_expander (~> 1.1)
     path_expander (1.1.1)
+    rake (13.0.6)
 
 PLATFORMS
   arm64-darwin-21
@@ -18,6 +19,7 @@ DEPENDENCIES
   hercule-poro!
   minitest (~> 5.0)
   minitest-sprint
+  rake
 
 BUNDLED WITH
    2.4.7
